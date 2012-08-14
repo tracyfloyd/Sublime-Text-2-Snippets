@@ -20,14 +20,10 @@ Keyword: **rr**
     array() {
     }
 
----
-
 Keyword: **vd**
 
     var_dump( $results );
     exit;
-
----
 
 Keyword: **pr**
 
