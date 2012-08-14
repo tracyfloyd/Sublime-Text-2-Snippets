@@ -6,34 +6,52 @@ Please note: All the snippets are triggered by the **TAB** character.
 
 ## Global
 
-Keyword: **fn**
+#### Closure function
+Keyword: **fn**  
 
-    function() {
-    }
+	function() {
+	}
+
+#### Laravel style comment
+Keyword: **/\*l**
+
+	/*
+	|--------------------------------------------------------------------------
+	| Title
+	|--------------------------------------------------------------------------
+	| 
+	| Description
+	| 
+	*/
 
 ---
 
 ## PHP
 
+#### Array
 Keyword: **rr**
 
-    array() {
-    }
+	array() {
+	}
 
+#### Var Dump
 Keyword: **vd**
 
-    var_dump( $results );
-    exit;
+	var_dump( $results );
+	exit;
 
+#### Print R
 Keyword: **pr**
 
-    print_r( $results );
-    exit;
+	echo '<pre>';
+	print_r( $results );
+	exit;
 
 ---
 
 ## JavaScript
 
+#### Console log
 Keyword: **log**
 
-    console.log();
+	console.log();
