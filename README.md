@@ -55,3 +55,12 @@ Keyword: **pr**
 Keyword: **log**
 
 	console.log();
+
+---
+
+## HTML
+
+#### Twitter Bootstrap
+Keyword: **twb**
+
+	Type 'twb' and press TAB to see a full list of commands available.
