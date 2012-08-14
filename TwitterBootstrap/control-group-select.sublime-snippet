@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<div class="control-group${1: warning|error|success}">
+	<label for="${2:Name/ID}" class="control-label">${3:Field label:}${4: <span class="required">*</span>}</label>
+	<div class="controls">
+		<select id="${2:Name/ID}" name="${2:Name/ID}"${5: multiple="multiple"}>
+			<option>${6:Option 1}</option>
+			<option>${7:Option 2}</option>
+		</select>
+	</div>
+</div>
+]]></content>
+	<tabTrigger>twb</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

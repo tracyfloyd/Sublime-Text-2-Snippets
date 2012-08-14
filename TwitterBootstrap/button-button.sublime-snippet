@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<button class="btn${1: btn-primary|btn-info|btn-success|btn-warning|btn-danger|btn-inverse}" type="submit">${2:Button title}</button>
+]]></content>
+	<tabTrigger>twb</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

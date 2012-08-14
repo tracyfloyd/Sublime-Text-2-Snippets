@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<div class="control-group${1: warning|error|success}">
+	<label for="${2:Name/ID}" class="control-label">${3:Field label:}${4: <span class="required">*</span>}</label>
+	<div class="controls">
+		<label class="checkbox">
+			<input type="checkbox" id="${2:Name/ID}" name="${2:Name/ID}" value="${5:Checkbox Value}">
+			${6:Description for checkbox}
+		</label>
+	</div>
+</div>
+]]></content>
+	<tabTrigger>twb</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

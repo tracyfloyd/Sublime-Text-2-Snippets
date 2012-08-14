@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div class="control-group${1: warning|error|success}">
+	<label class="control-label">${2:Field label:}${3: <span class="required">*</span>}</label>
+	<div class="controls">
+		<label class="radio">
+			<input type="radio" name="${4:Radio group name}"${5: id="${6:Radio 1 ID}"} value="${7:Value}"${8: checked="checked"}>
+			${9:Option one is this and that}
+		</label>
+		<label class="radio">
+			<input type="radio" name="${4:Radio group name}"${10: id="${11:Radio 2 ID}"} value="${12:Value}"${13: checked="checked"}>
+			${14:Option two can be something else and selecting it will deselect option one}
+		</label>
+	</div>
+</div>
+]]></content>
+	<tabTrigger>twb</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
