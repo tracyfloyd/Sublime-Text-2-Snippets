@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<i class="icon-${1:search}${2: icon-white}"></i>
-]]></content>
-	<tabTrigger>twb</tabTrigger>
-	<scope>text.html</scope>
-</snippet>

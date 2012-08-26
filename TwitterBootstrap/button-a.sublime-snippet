@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<a class="btn${1: btn-primary|btn-info|btn-success|btn-warning|btn-danger|btn-inverse}" href="${2:URL}">${3:Link title}</a>
-]]></content>
-	<tabTrigger>twb</tabTrigger>
-	<scope>text.html</scope>
-</snippet>

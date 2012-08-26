@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<div class="page-header">
-	<h${1:1}>${2:Title}</h$1>
-</div>
-]]></content>
-	<tabTrigger>twb</tabTrigger>
-	<scope>text.html</scope>
-</snippet>
