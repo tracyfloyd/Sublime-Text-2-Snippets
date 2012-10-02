@@ -2,7 +2,7 @@
 	<content><![CDATA[
 array(
 	$1
-);
+)
 ]]></content>
 	<tabTrigger>rr</tabTrigger>
 	<scope>source.php</scope>
